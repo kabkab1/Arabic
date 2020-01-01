@@ -1,54 +1,28 @@
-#EXTINF:-1,LBCHD (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5328
-#EXTINF:-1,LBCSAT (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5400
-#EXTINF:-1,LDC (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5394
-#EXTINF:-1,LebanonTV (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5361
-#EXTINF:-1,MTVLebanon (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5573
-#EXTINF:-1,NBN (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5572
-#EXTINF:-1,OTV (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5440
-#EXTINF:-1,FUTURE (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5799
-#EXTINF:-1,ALMAYADEENTV (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5577
-#EXTINF:-1,ALMEEDAN (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5525
-#EXTINF:-1,CBC (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5480
-#EXTINF:-1,CBCDrama (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5488
-#EXTINF:-1,CBCExtra (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5489
-#EXTINF:-1,CBCSofra (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5490
-#EXTINF:-1,NileCinema (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5455
-#EXTINF:-1,NILECOMEDY (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5453
-#EXTINF:-1,NileCulture (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5456
-#EXTINF:-1,NileDrama (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5457
-#EXTINF:-1,NileFamily (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5778
-#EXTINF:-1,NileLife (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5458
-#EXTINF:-1,NILENEWS (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5454
-#EXTINF:-1,NileSport (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5459
-#EXTINF:-1,niletv (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5412
-#EXTINF:-1,MariamTV (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/5530
-#EXTINF:-1,ANB (ARB) - NEW
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/60132
-#EXTINF:-1,OM DORMAN TV (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/45286
-#EXTINF:-1,BLUE NILE (ARB)
-http://ok2.se:8000/VKW747Rtsl/brrFslce8d/8682
+#EXTINF:-1,LB - AL MANAR +6H
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/49524.m3u8
+#EXTINF:-1,LB - FUTURE +6H
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/49523.m3u8
+#EXTINF:-1,LB - LBC +6H
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/49520.m3u8
+#EXTINF:-1,LB - LDC +6H
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/49522.m3u8
+#EXTINF:-1,LB - MTV LEBANON +6H
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/49515.m3u8
+#EXTINF:-1,LB - OTV +6H
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/49517.m3u8
+#EXTINF:-1,LB - AL JADEED +6
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/49516.m3u8
+#EXTINF:-1,LB - LEBANON TV
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/780.m3u8
+#EXTINF:-1,LB - LBC HD
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/21270.m3u8
+#EXTINF:-1,LB - LBC SAT
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/779.m3u8
+#EXTINF:-1,LB - LDC
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/778.m3u8
+#EXTINF:-1,LB - OTV TV
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/777.m3u8
+#EXTINF:-1,LB - MTV LEBANON HD
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/776.m3u8
+#EXTINF:-1,LB - MTV LEBANON
+http://185.150.27.194:80/live/Axd1PBnOye/EoCCZJIdWA/19161.m3u8
